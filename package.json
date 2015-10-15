@@ -1,6 +1,6 @@
 {
   "name": "ddbr6604smfc-generate-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a react component generator",
   "main": "index.js",
   "scripts": {
