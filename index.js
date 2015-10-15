@@ -12,6 +12,6 @@ if (!name) {
   return console.log('\nComponent name required\n');
 }
 
-generate(name, process.cwd())
+generate(name)
   .then(filename => console.log(`${name} -> ${filename}`))
   .catch(error => console.log('Oops!', error));

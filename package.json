@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ddbr6604smfc/generate-component#readme",
   "devDependencies": {
     "mocha": "^2.3.3",
+    "rimraf": "^2.4.3",
     "should": "^7.1.0"
   },
   "dependencies": {
